@@ -48,7 +48,7 @@ Open **x64 Native Tools Command Prompt for VS 2022.bat**, go to ***BuildPath*** 
 
 Open **x64 Native Tools Command Prompt for VS 2022.bat**, go to ***BuildPath*** and run
 
-    git clone --recursive https://github.com/telegramdesktop/tdesktop.git
+    git clone --recursive https://github.com/flmorse/tdesktop.git
     tdesktop\Telegram\build\prepare\win.bat
 
 ## Build the project
